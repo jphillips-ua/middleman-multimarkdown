@@ -5,7 +5,8 @@ middleman-multimarkdown
 
 ## Purpose
 
-`Middleman` ships with support for a couple of excellent `Markdown` parsers via [Tilt]  ([kramdown], [redcarpet]), but does not offer any convenient option for making use of the greatly expanded syntax of `MultiMarkdown` in a project. 
+`Middleman` ships with support for a couple of excellent `Markdown` parsers via [Tilt] 
+([kramdown], [redcarpet]), but does not offer any convenient option for making use of the greatly expanded syntax of `MultiMarkdown` in a project. 
 
 This extension connects the [rpeg-multimarkdown] implementation of MultiMarkdown to Tilt and provides a simple Middleman extension for use in any project.
 
